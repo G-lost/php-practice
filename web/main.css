@@ -1,0 +1,38 @@
+.container
+{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 260px;
+}
+
+.container h1
+{
+    color: seagreen;
+    margin-left: 60px;
+}
+
+.container input[type='email'], .container input[type='password']
+{
+    padding: 8px;
+    border-radius: 4px;
+    border-color: gray;
+    border-width: 0px;
+    box-shadow: none;
+    box-shadow: 2px 2px 4px 1px rgb(150,150,150);
+    width: 260px;
+    /* color: rgb(100, 100, 100); */
+}
+
+.container input[type='submit']
+{
+    padding: 8px;
+    background-color: seagreen;
+    border-width: 0px;
+    border-radius: 4px;
+    color: white;
+    box-shadow: 2px 2px 4px 1px rgb(150,150,150);
+    width: 100px;
+    float: right;
+}
+
+/* .container  */

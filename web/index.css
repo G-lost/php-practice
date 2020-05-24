@@ -1,0 +1,66 @@
+
+body
+{
+    margin: 0px;
+}
+
+.main_header h1
+{
+    margin: 0px;
+    font-weight: 500;
+}
+
+.header
+{
+    width: 100%;
+    height: 100px;
+    top: 0px;
+    padding: 0px;
+    margin: 0px;
+    color: seagreen;
+    border-bottom:  2px solid seagreen;
+    position: fixed;
+}
+
+.main_header
+{
+    margin-left: 12%;
+    /* margin-right: auto; */
+    margin-top: 10px;
+    font-size: 24px;
+    float: left;
+}
+
+.right_header
+{
+    margin-top: 40px;
+    margin-right: 6%;
+    float: right;
+}
+
+.header_list>li
+{
+    display: inline-block;
+    
+}
+
+.header_list li>a
+{
+    color: seagreen;
+    font-weight: 400;
+}
+
+.header_list li:first-child
+{
+    margin-right: 10px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.clearfix
+{
+    clear: both;
+}
