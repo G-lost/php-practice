@@ -693,3 +693,71 @@ Stack trace:
 2020/05/24 03:28:05 [error] 6#6: *5 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
 2020/05/24 03:28:24 [error] 6#6: *4 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/user_reg.php"
 2020/05/24 05:57:01 [error] 6#6: *80 FastCGI sent in stderr: "PHP message: PHP Notice:  date_default_timezone_set(): Timezone ID 'UTC+8' is invalid in /usr/share/nginx/html/user_save.php on line 10" while reading response header from upstream, client: 172.17.0.1, server: _, request: "POST /user_save.php HTTP/1.1", upstream: "fastcgi://172.17.0.3:9000", host: "localhost", referrer: "http://localhost/user_reg.php"
+2020/05/25 04:15:38 [error] 6#6: *247 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/05/25 04:15:43 [error] 6#6: *247 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/05/25 04:15:44 [error] 6#6: *247 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/05/25 04:17:17 [error] 6#6: *251 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 04:17:21 [error] 6#6: *251 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 04:18:18 [error] 6#6: *251 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 04:18:19 [error] 6#6: *251 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 04:18:25 [error] 6#6: *251 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 04:18:26 [error] 6#6: *251 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 04:18:31 [error] 6#6: *251 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 04:18:31 [error] 6#6: *251 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 04:18:33 [error] 6#6: *251 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 04:18:33 [error] 6#6: *251 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 04:18:36 [error] 6#6: *251 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 04:18:36 [error] 6#6: *251 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:29 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:29 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:33 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:33 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:39 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:39 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:42 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:42 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:43 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:43 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:45 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:45 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:47 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:47 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:49 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:49 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:51 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:51 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:53 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:53 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:56 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:57 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:58 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:58 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:59 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:14:59 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:15:01 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/25 07:15:02 [error] 6#6: *260 open() "/usr/share/nginx/html/main.js" failed (2: No such file or directory), client: 172.17.0.1, server: _, request: "GET /main.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index_reged.php"
+2020/05/27 07:12:43 [error] 6#6: *296 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RedisException: Connection refused in /usr/share/nginx/html/redis_test.php:3
+Stack trace:
+#0 /usr/share/nginx/html/redis_test.php(3): Redis->connect('127.0.0.1')
+#1 {main}
+  thrown in /usr/share/nginx/html/redis_test.php on line 3" while reading response header from upstream, client: 172.17.0.1, server: _, request: "GET /redis_test.php HTTP/1.1", upstream: "fastcgi://172.17.0.3:9000", host: "localhost"
+2020/05/27 07:13:19 [error] 6#6: *296 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RedisException: Connection refused in /usr/share/nginx/html/redis_test.php:3
+Stack trace:
+#0 /usr/share/nginx/html/redis_test.php(3): Redis->connect('127.0.0.1', 6379)
+#1 {main}
+  thrown in /usr/share/nginx/html/redis_test.php on line 3" while reading response header from upstream, client: 172.17.0.1, server: _, request: "GET /redis_test.php HTTP/1.1", upstream: "fastcgi://172.17.0.3:9000", host: "localhost"
+2020/05/27 07:13:20 [error] 6#6: *296 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RedisException: Connection refused in /usr/share/nginx/html/redis_test.php:3
+Stack trace:
+#0 /usr/share/nginx/html/redis_test.php(3): Redis->connect('127.0.0.1', 6379)
+#1 {main}
+  thrown in /usr/share/nginx/html/redis_test.php on line 3" while reading response header from upstream, client: 172.17.0.1, server: _, request: "GET /redis_test.php HTTP/1.1", upstream: "fastcgi://172.17.0.3:9000", host: "localhost"
+2020/05/27 07:13:20 [error] 6#6: *296 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RedisException: Connection refused in /usr/share/nginx/html/redis_test.php:3
+Stack trace:
+#0 /usr/share/nginx/html/redis_test.php(3): Redis->connect('127.0.0.1', 6379)
+#1 {main}
+  thrown in /usr/share/nginx/html/redis_test.php on line 3" while reading response header from upstream, client: 172.17.0.1, server: _, request: "GET /redis_test.php HTTP/1.1", upstream: "fastcgi://172.17.0.3:9000", host: "localhost"
+2020/05/27 07:13:45 [error] 6#6: *296 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught RedisException: Connection refused in /usr/share/nginx/html/redis_test.php:3
+Stack trace:
+#0 /usr/share/nginx/html/redis_test.php(3): Redis->connect('127.0.0.1', 6379)
+#1 {main}
+  thrown in /usr/share/nginx/html/redis_test.php on line 3" while reading response header from upstream, client: 172.17.0.1, server: _, request: "GET /redis_test.php HTTP/1.1", upstream: "fastcgi://172.17.0.3:9000", host: "localhost"
