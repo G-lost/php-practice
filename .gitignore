@@ -1,1 +1,3 @@
 weblog/default_nginx.log
+weblog/error.log
+*.log
